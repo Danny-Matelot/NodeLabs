@@ -12,3 +12,8 @@ Clone the rep, go to the folder with cd and then course
 Just start the project with
 
 > npm start
+
+
+## Contributors
+
+Only me so far
